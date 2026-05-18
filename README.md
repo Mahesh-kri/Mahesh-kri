@@ -1,32 +1,67 @@
-### Hi there, I'm [Mahesh Krishna](https://www.linkedin.com/in/mahesh-krishnap) 👋
+<h2 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=6366F1&center=true&vCenter=true&width=500&lines=Hey%2C+I'm+Mahesh+Krishna+%F0%9F%91%8B;Backend+Engineer+%7C+Java+%26+Spring+Boot;Building+reliable+systems+from+Kochi" alt="Typing SVG" />
+</h2>
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mahesh-krishnap)
-[![Gmail](https://img.shields.io/badge/-Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:maheshkrishnap.mec@gmail.com)
-
-Hi, I'm Mahesh — a Backend Engineer from Kochi, India. I build event-driven, high-throughput systems using Java and Spring Boot.
-
-- 🔭 I'm currently working on [retail-os](https://github.com/Mahesh-kri/retail-os) — a full-stack retail management platform
-- 🌱 I'm currently learning distributed systems design and observability (Prometheus + Grafana)
-- 💬 Ask me about Java, Spring Boot, Kafka, or backend system design
-- 📫 Reach me at **maheshkrishnap.mec@gmail.com**
+<p align="center">
+  <a href="https://www.linkedin.com/in/mahesh-krishnap"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:maheshkrishnap.mec@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>
+  <img src="https://komarev.com/ghpvc/?username=Mahesh-kri&style=flat-square&color=6366F1&label=Profile+Views"/>
+</p>
 
 ---
 
-**Languages and Tools:**
+### 👨‍💻 About Me
 
-[![Java](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png)](https://www.java.com)
-[![Spring Boot](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/spring-boot/spring-boot.png)](https://spring.io/projects/spring-boot)
-[![Apache Kafka](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/apache-kafka/apache-kafka.png)](https://kafka.apache.org)
-[![Docker](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png)](https://www.docker.com)
-[![MySQL](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png)](https://www.mysql.com)
-[![Git](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png)](https://git-scm.com)
+Backend engineer focused on building event-driven, high-throughput systems.  
+I work primarily with **Java** and **Spring Boot** — and care a lot about things not breaking under load.
+
+- 🔭 Currently building **[retail-os](https://github.com/Mahesh-kri/retail-os)** — a full-stack retail platform
+- 🌱 Exploring **distributed systems design** and **observability**
+- 📍 Based in Kochi, India
+- 💬 Ask me about **Java, Spring Boot, Kafka, or REST API design**
 
 ---
 
-*NOTE: Top languages does not indicate my skill level — it's a GitHub metric of which languages I have the most code in on GitHub.*
+### 🛠️ Tech Stack
 
-[![Mahesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mahesh-kri&show_icons=true&include_all_commits=true&theme=material-palenight)](https://github.com/Mahesh-kri)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mahesh-kri&layout=compact&theme=material-palenight)](https://github.com/Mahesh-kri)
+**Backend**
 
-[![retail-os](https://github-readme-stats.vercel.app/api/pin/?username=Mahesh-kri&repo=retail-os&theme=material-palenight)](https://github.com/Mahesh-kri/retail-os)
-[![PlayON](https://github-readme-stats.vercel.app/api/pin/?username=Mahesh-kri&repo=PlayON&theme=material-palenight)](https://github.com/Mahesh-kri/PlayON)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white)
+![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=flat-square&logo=hibernate&logoColor=white)
+
+**Databases & Caching**
+
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Aerospike](https://img.shields.io/badge/Aerospike-C52233?style=flat-square&logo=aerospike&logoColor=white)
+
+**DevOps & Tools**
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![GitLab CI](https://img.shields.io/badge/GitLab_CI-FC6D26?style=flat-square&logo=gitlab&logoColor=white)
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apachemaven&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+
+---
+
+### 📌 Projects
+
+[![retail-os](https://github-readme-stats.vercel.app/api/pin/?username=Mahesh-kri&repo=retail-os&theme=tokyonight&hide_border=true)](https://github.com/Mahesh-kri/retail-os)
+[![PlayON](https://github-readme-stats.vercel.app/api/pin/?username=Mahesh-kri&repo=PlayON&theme=tokyonight&hide_border=true)](https://github.com/Mahesh-kri/PlayON)
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Mahesh-kri&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mahesh-kri&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Mahesh-kri&theme=tokyonight&hide_border=true" height="150"/>
+</p>
