@@ -50,8 +50,12 @@ I work primarily with **Java** and **Spring Boot** — and care a lot about thin
 
 ### 📌 Projects
 
-[![retail-os](https://github-readme-stats.vercel.app/api/pin/?username=Mahesh-kri&repo=retail-os&theme=tokyonight&hide_border=true)](https://github.com/Mahesh-kri/retail-os)
-[![PlayON](https://github-readme-stats.vercel.app/api/pin/?username=Mahesh-kri&repo=PlayON&theme=tokyonight&hide_border=true)](https://github.com/Mahesh-kri/PlayON)
+| Project | Description | Stack |
+|---|---|---|
+| [**retail-os**](https://github.com/Mahesh-kri/retail-os) | Full-stack retail management platform with inventory, POS billing, customer CRM, referral loyalty, and WhatsApp automation | ![Spring Boot](https://img.shields.io/badge/-Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white) ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white) |
+| [**PlayON**](https://github.com/Mahesh-kri/PlayON) | Turf booking marketplace — owners list their turfs, players browse and complete bookings end-to-end | ![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![Spring Boot](https://img.shields.io/badge/-Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white) |
+| [**Project-Manager**](https://github.com/Mahesh-kri/Project-Manager) | Web app for managing projects and todos with user authentication and role-based access | ![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![Spring Boot](https://img.shields.io/badge/-Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white) |
+| [**resume-app**](https://github.com/Mahesh-kri/resume-app) | Personal resume built as a web app | ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white) |
 
 ---
 
