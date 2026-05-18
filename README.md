@@ -55,16 +55,13 @@ I work primarily with **Java** and **Spring Boot** — and care a lot about thin
 | [**retail-os**](https://github.com/Mahesh-kri/retail-os) | Full-stack retail management platform with inventory, POS billing, customer CRM, referral loyalty, and WhatsApp automation | ![Spring Boot](https://img.shields.io/badge/-Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white) ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white) |
 | [**PlayON**](https://github.com/Mahesh-kri/PlayON) | Turf booking marketplace — owners list their turfs, players browse and complete bookings end-to-end | ![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![Spring Boot](https://img.shields.io/badge/-Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white) |
 | [**Project-Manager**](https://github.com/Mahesh-kri/Project-Manager) | Web app for managing projects and todos with user authentication and role-based access | ![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![Spring Boot](https://img.shields.io/badge/-Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white) |
-| [**resume-app**](https://github.com/Mahesh-kri/resume-app) | Personal resume built as a web app | ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white) |
+| [**resume-app**](https://github.com/Mahesh-kri/resume-app) | AI driven resume details extractor | ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white) |
 
 ---
 
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mahesh-kri&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mahesh-kri&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
-</p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Mahesh-kri&theme=tokyonight&hide_border=true" height="150"/>
